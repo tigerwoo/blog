@@ -1,0 +1,21 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>All Posts - Tiger Woo</title>
+        <link>http://www.tigerwoo.cn/en/posts/</link>
+        <description>All Posts | Tiger Woo</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>tiger@tigerwoo.cn (Tiger)</managingEditor>
+            <webMaster>tiger@tigerwoo.cn (Tiger)</webMaster><lastBuildDate>Mon, 19 Aug 2024 13:03:42 &#43;0800</lastBuildDate><atom:link href="http://www.tigerwoo.cn/en/posts/" rel="self" type="application/rss+xml" /><item>
+    <title>About Me</title>
+    <link>http://www.tigerwoo.cn/en/aboutme/</link>
+    <pubDate>Mon, 19 Aug 2024 13:03:42 &#43;0800</pubDate>
+    <author>Tiger</author>
+    <guid>http://www.tigerwoo.cn/en/aboutme/</guid>
+    <description><![CDATA[Welcome to my personal blog.
+Here, I&rsquo;ll be sharing some of my experiences.
+I hope that what I share can provide you with some inspiration or assistance.
+Who am I? I&rsquo;m a middle-aged man who has lived half of his life.
+A member of the post-80s generation, Born in Suzhou, Studied in Nanjing, Worked in Beijing.
+The first peak of my life has passed, And I&rsquo;m currently in a low point.]]></description>
+</item>
+</channel>
+</rss>

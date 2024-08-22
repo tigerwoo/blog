@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - Category - Tiger Woo</title>
+        <link>http://www.tigerwoo.cn/en/categories/</link>
+        <description>Categories - Category - Tiger Woo</description>
+        <generator>Hugo -- gohugo.io</generator><language>en</language><managingEditor>tiger@tigerwoo.cn (Tiger)</managingEditor>
+            <webMaster>tiger@tigerwoo.cn (Tiger)</webMaster><lastBuildDate>Mon, 19 Aug 2024 13:03:42 &#43;0800</lastBuildDate><atom:link href="http://www.tigerwoo.cn/en/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>General</title>
+    <link>http://www.tigerwoo.cn/en/categories/general/</link>
+    <pubDate>Mon, 19 Aug 2024 13:03:42 &#43;0800</pubDate>
+    <author>Tiger</author>
+    <guid>http://www.tigerwoo.cn/en/categories/general/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
